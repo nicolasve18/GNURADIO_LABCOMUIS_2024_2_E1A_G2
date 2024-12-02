@@ -12,20 +12,33 @@ esta practica se divide en dos partes
 Parte A:
 
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_1
+
 Parte B:
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_1_b/practica_1_b
+
 Practica_2
+
 Esta practica se divide en dos
+
 Parte A:
+
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_2/parte_A
+
 Parte B :
+
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_2/parte_B
+
 Practica_3
+
 Esta practica se base en las modulaciones lineales especialmente la modulacion amplitud AM
+
 se dividio en dos partes:
+
 Parte A:
+
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_3/parte_A
 Parte B:
+
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_3/parte_B
 Practica 4
 el obejtivo de esta practica fueron en analisis de las modulaaciones angulares como la FM y la PM
