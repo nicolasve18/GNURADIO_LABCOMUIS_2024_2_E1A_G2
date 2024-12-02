@@ -37,6 +37,7 @@ se dividio en dos partes:
 Parte A:
 
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_3/parte_A
+
 Parte B:
 
 https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_3/parte_B
