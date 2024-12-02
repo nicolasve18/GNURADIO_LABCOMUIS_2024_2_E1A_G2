@@ -30,7 +30,7 @@ https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768
 
 Practica_3
 
-Esta practica se base en las modulaciones lineales especialmente la modulacion amplitud AM
+Esta practica se basa en las modulaciones lineales especialmente la modulacion amplitud AM
 
 se dividio en dos partes:
 
