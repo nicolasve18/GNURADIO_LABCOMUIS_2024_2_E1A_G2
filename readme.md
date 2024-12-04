@@ -54,7 +54,8 @@ En esta etapa, se realizarán mediciones del tiempo de bit y el índice de modul
    - 2 muestras por símbolo  
 
 
-
+## conclusion 
+Se observó que al calcular el índice de modulación a partir de las amplitudes obtenidas mediante el osciloscopio, no se obtuvo el valor teórico, sino un valor aproximado. Esto podría deberse a las pérdidas ocasionadas por el cable de conexión entre el radio y el osciloscopio, así como a otros factores adicionales.
 
 
 
