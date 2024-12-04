@@ -1,4 +1,5 @@
-En la Primera Parte (Práctica A), se generan señales de diferentes formas (senoidales, triangulares, cuadradas, etc.) utilizando GNU Radio. Estas señales son analizadas en términos de amplitud y espectro de frecuencia.Además, se aplican filtros para controlar el nivel de ruido añadido, y mediante el uso del analizador de espectro, se evalúa su ancho de banda.
+## Parte_A
+En la Primera Parte , se generan señales de diferentes formas (senoidales, triangulares, cuadradas, etc.) utilizando GNU Radio. Estas señales son analizadas en términos de amplitud y espectro de frecuencia.Además, se aplican filtros para controlar el nivel de ruido añadido, y mediante el uso del analizador de espectro, se evalúa su ancho de banda.
 
 ## parte_B
 
