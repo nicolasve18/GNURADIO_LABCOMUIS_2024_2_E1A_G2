@@ -8,6 +8,8 @@ En esta sección se creó un montaje utilizando **GNU Radio** para visualizar se
 - **Dominio de la frecuencia:** Utilizando el analizador de espectro.
 
 ## Parte B: Visualización de Señales Constantes
-En esta sección se utilizó el bloque **USRP** para visualizar una señal . La señal fue controlada mediante los parámetros como la frecuencia, amplitud y ganacia del sitema 
+En esta sección se utilizó el bloque **USRP** para visualizar una señal . La señal fue controlada mediante los parámetros como la frecuencia, amplitud y ganancia del sitema 
+
+https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_1/practica_1/parte_b/(300_MHz)_porcentajes_graficas.png
 
 
