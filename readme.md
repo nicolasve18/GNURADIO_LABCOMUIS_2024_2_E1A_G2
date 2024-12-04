@@ -1,6 +1,6 @@
 
 ## Parte A
-En la Primera Parte , se utiliza una antena y el software GNU Radio para sintonizar y analizar  frecuencias dentro del rango de 88 a 108 MHz, correspondientes a emisoras locales. Se exploran características como el piloto y los componentes de la señal (L+R) esto se hace en el software de gnu radio ,luego se pasa a utilizar el analizador de espectro donde s epueden apreciar las diferencias de usar una herramienta especializada y se tomaron medidas como el ancho de banda, regulado por la "Agencia Nacional del Espectro" (ANE).
+En la Primera Parte , se utiliza una antena y el software GNU Radio para sintonizar y analizar  frecuencias dentro del rango de 88 a 108 MHz, correspondientes a emisoras locales. Se exploran características como el piloto y los componentes de la señal (L+R) esto se hace en el software de gnu radio ,luego se pasa a utilizar el analizador de espectro donde se pueden apreciar las diferencias de usar una herramienta especializada y se tomaron medidas como el ancho de banda, regulado por la "Agencia Nacional del Espectro" (ANE).
 ![banda base](https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_4/practica_4/Captura%20de%20pantalla%202024-12-04%20165340.png)
 
 ## Parte B
