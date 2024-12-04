@@ -14,19 +14,19 @@ Cada practica está organizada de la siguiente manera:
 1. *Descripción de la sesión*: Explicación de las actividades realizadas.
 2. *Evidencias*: Archivos que incluyen los datos, gráficos y cálculos generados durante la sesión.
 
-## practica_1:
+## practica 1:
 
 Esta práctica de laboratorio tiene como propósito principal introducir a los estudiantes al uso de GNU Radio, una herramienta para la simulación de sistemas de comunicaciones. A lo largo de las actividades, se desarrollan habilidades para generar y manipular diagramas de flujo (Flowgraphs) y para analizar señales en tiempo y en frecuencia.
 
-## practica_2:
+## practica 2:
 
 La práctica 2 tiene como objetivo principal estudiar y comprender el comportamiento de señales que atraviesan un canal, explorando su análisis en el dominio del tiempo y la frecuencia. Está dividida en dos partes, cada una con actividades específicas que profundizan en el manejo de señales y su interacción con el ruido.
 
-## practica_3:
+## practica 3:
 La práctica 3 está enfocada en las modulaciones lineales, con especial atención a la modulación de amplitud (AM). El objetivo principal es analizar cómo estas modulaciones influyen en las señales tanto en el dominio del tiempo como en el de la frecuencia para su representación y evaluación.
 
 
-## practica_4:
+## practica 4:
 La práctica 4 está dividida en dos partes, en donde se enfatizo en el monitoreo del espectro radioeléctrico y en el estudio de modulaciones angulares, abarcando banda ancha y banda estrecha. Estas actividades buscan que se familiarice con señales reales y comprendan de manera practica las modulaciones angulares.
 
 ## Conclusion general
