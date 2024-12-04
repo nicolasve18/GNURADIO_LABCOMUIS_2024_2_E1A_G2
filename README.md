@@ -24,6 +24,8 @@ Esta práctica de laboratorio tiene como propósito principal introducir a los e
 
 ## practica_2:
 
+La práctica 2 tiene como objetivo principal estudiar y comprender el comportamiento de señales que atraviesan un canal, explorando su análisis en el dominio del tiempo y la frecuencia. Está dividida en dos partes, cada una con actividades específicas que profundizan en el manejo de señales y su interacción con el ruido.
+
 ## practica_3:
 
 ## practica_4:
