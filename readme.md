@@ -5,9 +5,7 @@ en esta practica se realizó un análisis de la modulación de amplitud (AM) en 
 - \( k_a A_m = 1 \)
 - \( k_a A_m > 1 \)
 - \( k_a A_m < 1 \)
-
-## Objetivos
-
+- 
 1. **Medir la potencia de la señal \( s(t) \)** con el analizador de espectro.
 2. **Calcular el índice de modulación** \( k_a A_m \)
 
@@ -31,6 +29,8 @@ Se consideraron los siguientes casos de modulación AM, donde \( N \) es el últ
 1. Se observó la señal envolvente compleja \( g(t) \) utilizando el bloque **QT GUI Time Sink**.
 2. Se midieron las amplitudes de la señal \( s(t) \) con el osciloscopio.
 3. Se determinó la profundidad de modulación a partir del índice de modulación utilizando los cursores del osciloscopio.
+
+![imagen el analizador de espectro](https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_3/practica_3/Captura%20de%20pantalla%202024-12-04%20172721.png)
 
 # Parte B: Medición del Índice de Modulación y Análisis de Banda Ancha
 Esta parte b se dividio en dos subpartes:
