@@ -55,6 +55,9 @@ En la primera parte de la práctica, se utilizó el osciloscopio para realizar m
   ![señal modulada al 150%](https://github.com/Jpw11108/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_3/parte_A/imagen_2024-12-04_171444927.png ) 
 
 
+Para calcular el índice de modulación absoluto en la segunda parte, se utilizó una función del osciloscopio que marca el pico máximo de la señal en tiempo real, necesario para determinar este índice en combinación con la amplitud de la portadora. La amplitud de la portadora se obtuvo ajustando el parámetro Ka a cero, dejando únicamente la señal de la portadora activa.
+
+
 ## conclusion 
 Se observó que al calcular el índice de modulación a partir de las amplitudes obtenidas mediante el osciloscopio, no se obtuvo el valor teórico, sino un valor aproximado. Esto podría deberse a las pérdidas ocasionadas por el cable de conexión entre el radio y el osciloscopio, así como a otros factores adicionales.
 
