@@ -51,8 +51,7 @@ En esta etapa, se realizarán mediciones del tiempo de bit y el índice de modul
 3. **Señal Modulante al 150%**  
    - Frecuencia de portadora: 350 MHz  
    - Ganancia de TX: 20 dB  
-   - 2 muestras por símbolo
-  
+   - 2 muestras por símbolo  
   ![señal modulada al 150%](https://github.com/Jpw11108/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_3/parte_A/imagen_2024-12-04_171444927.png ) 
 
 
