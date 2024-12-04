@@ -3,55 +3,19 @@ Cada carpeta contiene una descripción  de las actividades realizadas en cada se
 Estas evidencias incluyen los archivos utilizados en GNU Radio, tablas de Excel, cálculos manuales e imágenes capturadas de las herramientas de medición.
 El laboratorio está dividido en cuatro sesiones, cada una organizada en dos subpartes. 
 
-practica_1
+Evidencias del Laboratorio - Curso de Comunicaciones 1
+En este repositorio de GitHub se encuentra las evidencias del  laboratorio realizado en el curso de Comunicaciones 1. 
+Cada carpeta contiene una descripción  de las actividades realizadas en cada sesión del laboratorio
 
-El objetivo principal de esta practica es familiazarse con la herramienta de gnu radio, con el osciloscopio y el analizador de espectro.
+Estructura del Repositorio
+El laboratorio está dividido en cuatro sesiones, cada una organizada en dos subpartes. Las evidencias en cada carpeta incluyen:
 
-esta practica se divide en dos partes 
+Archivos utilizados en GNU Radio.
+Tablas de Excel con los resultados obtenidos.
+Cálculos manuales relacionados con los experimentos.
+Imágenes capturadas de las herramientas de medición, como analizadores de espectro, osciloscopios
+Carpeta de Cada Sesión
+Cada sesión está organizada de la siguiente manera:
 
-Parte A:
-
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_1
-
-Parte B:
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_1_b/practica_1_b
-
-Practica_2
-
-Esta practica se divide en dos
-
-Parte A:
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_2/parte_A
-
-Parte B :
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_2/parte_B
-
-Practica_3
-
-Esta practica se basa en las modulaciones lineales especialmente la modulacion amplitud AM
-
-se dividio en dos partes:
-
-Parte A:
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_3/parte_A
-
-Parte B:
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_3/parte_B
-
-Practica 4
-
-el obejtivo de esta practica fueron en analisis de las modulaaciones angulares como la FM y la PM
-
-Parte A:
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_4/parte_A
-
-Parte B :
-
-https://github.com/nicolasve18/GNURADIO_LABCOMUIS_2024_2_E1A_G2/tree/50bc9dd0768808f09ab0900039414a91c97acf81/practica_4/parte_B
-
+Descripción de la sesión: Explicación de las actividades realizadas.
+Evidencias: Archivos que incluyen los datos, gráficos y cálculos generados durante la sesión.
