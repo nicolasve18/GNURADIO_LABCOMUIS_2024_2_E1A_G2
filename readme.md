@@ -60,6 +60,8 @@ Para calcular el índice de modulación absoluto en la segunda parte, se utiliz�
 
 Para medir el ancho de banda, se empleó una máscara en el analizador de espectro  que permitió observar los picos más altos de la señal. Esto facilitó la determinación del ancho de banda usando el criterio de los 20 dB en esta parte el ancho de banda se mantuvo constante lo que aumento fue su potencia a medida que aumentaba el indice de modulacion absoluto.
 
+![medida del ancho de banda](https://github.com/Jpw11108/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_3/parte_B/imagen_2024-12-04_172157841.png )
+
 
 ## conclusion 
 Se observó que al calcular el índice de modulación a partir de las amplitudes obtenidas mediante el osciloscopio, no se obtuvo el valor teórico, sino un valor aproximado. Esto podría deberse a las pérdidas ocasionadas por el cable de conexión entre el radio y el osciloscopio, así como a otros factores adicionales.
