@@ -34,7 +34,7 @@ Se consideraron los siguientes casos de modulación AM, donde \( N \) es el últ
 
 # Parte B: Medición del Índice de Modulación y Análisis de Banda Ancha
 
-En esta etapa, se realizarán mediciones del tiempo de bit y el índice de modulación absoluto en tres casos de señales moduladas. Además, se estimará el ancho de banda de cada señal medida.
+En la primera parte de la práctica, se utilizó el osciloscopio para realizar mediciones de tiempo de bit y del índice de modulación. Primero, se calculó teóricamente el tiempo de bit para cada uno de los tres casos, dividiendo la cantidad de muestras por símbolo entre la tasa de muestreo (samp_rate). Luego, en el osciloscopio, se ajustó la señal de acuerdo con los requerimientos establecidos y se identificó un bit específico para detener la señal (stop) y medir el tiempo del bit usando los cursores. Este tiempo experimental se comparó con el tiempo teórico previamente calculado.
 
 ## Casos a Medir
 
