@@ -57,6 +57,8 @@ En la primera parte de la práctica, se utilizó el osciloscopio para realizar m
 
 Para calcular el índice de modulación absoluto en la segunda parte, se utilizó una función del osciloscopio que marca el pico máximo de la señal en tiempo real, necesario para determinar este índice en combinación con la amplitud de la portadora. La amplitud de la portadora se obtuvo ajustando el parámetro Ka a cero, dejando únicamente la señal de la portadora activa.
 
+![uso de la funcion del osciloscopio](https://github.com/Jpw11108/GNURADIO_LABCOMUIS_2024_2_E1A_G2/blob/practica_3/parte_B/imagen_2024-12-04_172338411.png )
+
 
 Para medir el ancho de banda, se empleó una máscara en el analizador de espectro  que permitió observar los picos más altos de la señal. Esto facilitó la determinación del ancho de banda usando el criterio de los 20 dB en esta parte el ancho de banda se mantuvo constante lo que aumento fue su potencia a medida que aumentaba el indice de modulacion absoluto.
 
