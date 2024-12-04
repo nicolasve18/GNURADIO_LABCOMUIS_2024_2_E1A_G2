@@ -30,4 +30,4 @@ La práctica 2 tiene como objetivo principal estudiar y comprender el comportami
 La práctica 3 está enfocada en las modulaciones lineales, con especial atención a la modulación de amplitud (AM). El objetivo principal es analizar cómo estas modulaciones influyen en las señales tanto en el dominio del tiempo como en el de la frecuencia para su representación y evaluación.
 
 
-## practica_4:
+## practica_4:
