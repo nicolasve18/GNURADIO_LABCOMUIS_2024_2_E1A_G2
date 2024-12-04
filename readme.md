@@ -13,4 +13,5 @@ Se observó algo curioso que se mencionaba en la teoría al modificar el factor 
 Se observó que algunas emisoras no cumplen con el ancho de banda reglamentario y utilizan más del permitido. Como resultado, en ciertas áreas del espectro, las emisoras causan interferencias entre sí.
 
 Al calcular los coeficientes de Bessel, se observó una diferencia entre los valores teóricos y los obtenidos en el laboratorio. Esta discrepancia se atribuye a varias razones, como las imperfecciones al generar la señal en GNU Radio, así como las pérdidas y atenuaciones causadas por el cableado y el propio analizador de frecuencia.
+
 se vio que al se una señal de banda estrecha  osea con un kpAm menor a 0,2 se puede analizar como si estuviera modulada por amplitud facilitando los calculos.
