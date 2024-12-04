@@ -1,5 +1,5 @@
 # Evidencias del Laboratorio - Curso de Comunicaciones 1 
-En el este repositorio de GitHub se encuentra las evidencias del  laboratorio realizado en el curso de Comunicaciones 1. Cada carpeta contiene una descripción detallada de las actividades realizadas en cada sesión del laboratorio, así como las evidencias correspondientes.
+En el este repositorio de GitHub se encuentra las evidencias del  laboratorio realizado en el curso de Comunicaciones 1. Cada rama contiene una descripción detallada de las actividades realizadas en cada sesión del laboratorio, así como las evidencias correspondientes.
 
 ## Estructura del Repositorio
 
