@@ -27,5 +27,7 @@ Esta práctica de laboratorio tiene como propósito principal introducir a los e
 La práctica 2 tiene como objetivo principal estudiar y comprender el comportamiento de señales que atraviesan un canal, explorando su análisis en el dominio del tiempo y la frecuencia. Está dividida en dos partes, cada una con actividades específicas que profundizan en el manejo de señales y su interacción con el ruido.
 
 ## practica_3:
+La práctica 3 está enfocada en las modulaciones lineales, con especial atención a la modulación de amplitud (AM). El objetivo principal es analizar cómo estas modulaciones influyen en las señales tanto en el dominio del tiempo como en el de la frecuencia para su representación y evaluación.
+
 
 ## practica_4:
