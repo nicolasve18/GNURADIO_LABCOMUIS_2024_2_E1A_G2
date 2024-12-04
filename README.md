@@ -31,3 +31,4 @@ La práctica 3 está enfocada en las modulaciones lineales, con especial atenci�
 
 
 ## practica_4:
+La práctica 4 está dividida en dos partes, en donde se enfatizo en el monitoreo del espectro radioeléctrico y en el estudio de modulaciones angulares, abarcando banda ancha y banda estrecha. Estas actividades buscan que se familiarice con señales reales y comprendan de manera practica las modulaciones angulares.
