@@ -20,8 +20,7 @@ Cada practica está organizada de la siguiente manera:
 
 ## practica_1:
 
-Practica Introducción: La carpeta "Practica Introducción" tiene como objetivo familiarizar a los estudiantes con el uso de GNU Radio. A través de esta actividad, se aprende a generar un "Flowgraph" y a utilizar las herramientas del programa para simular comunicaciones, lo que permite comprender mejor la manipulación y análisis de señales.
-
+Esta práctica de laboratorio tiene como propósito principal introducir a los estudiantes al uso de GNU Radio, una herramienta para la simulación de sistemas de comunicaciones. A lo largo de las actividades, se desarrollan habilidades para generar y manipular diagramas de flujo (Flowgraphs) y para analizar señales en tiempo y en frecuencia.
 
 ## practica_2:
 
