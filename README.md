@@ -7,7 +7,7 @@ En este repositorio de GitHub se encuentran las evidencias del laboratorio reali
 
 ## Estructura del Repositorio
 
-El laboratorio está dividido en *cuatro sesiones, cada una organizada en **dos subpartes*. Las evidencias en cada carpeta incluyen:
+El laboratorio está dividido en cuatro sesiones, cada una organizada en **dos subpartes*. Las evidencias en cada carpeta incluyen:
 
 - Archivos utilizados en *GNU Radio*.
 - *Tablas de Excel* con los resultados obtenidos.
